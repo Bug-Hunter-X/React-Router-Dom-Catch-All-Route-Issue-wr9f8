@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with React Router's catch-all route (`/*`). When placed before other routes, it intercepts all navigation attempts, preventing other routes from being matched. The solution shows how to correctly position the catch-all route to resolve this issue.
